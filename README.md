@@ -1,1 +1,1 @@
-# multi_method_analysis_skin_lesion_detection
+# Multi-method Analysis Skin Lesion Detection
